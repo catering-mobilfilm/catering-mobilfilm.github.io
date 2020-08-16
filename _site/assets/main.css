@@ -275,30 +275,3 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .il { color: #099; }
 
 /*# sourceMappingURL=main.css.map */
-
-.body-class {
-    font-family: "Vollkorn Regular" !important;
-    font-size: 14px;
-}
-
-.companyName {
-    font-family: "Unica One" !important;
-    font-size: 35px !important;
-    font-weight: bold !important;
-    margin-bottom: 0 !important;
-    line-height: 54px !important;
-    float: left !important;
-    color: black !important;
-    text-decoration: none !important;
-}
-
-.link {
-    font-family: "Vollkorn Bold" !important;
-    font-size: 16px !important;
-    color: #0086B3 !important;
-}
-
-.text {
-    font-family: "Vollkorn Regular" !important;
-    font-size: 20px !important;
-}
